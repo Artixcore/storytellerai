@@ -28,7 +28,7 @@ migrate = Migrate(app, db=db)
 session = Session()
 
 
-EXPECTATION_WORDS = '499'
+EXPECTATION_WORDS = '999'
 
 
 class Story(db.Model):
